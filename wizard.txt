@@ -1,0 +1,17 @@
+id="plugin.program.DawgWizard"
+version="1.1.1"
+zip="http://dawgwizard.42web.io/plugin.program.DawgWizard.zip"
+
+
+name="Dawg Build"version="1.0"
+url="https://www.dropbox.com/s/qvih38sy9xk9uvb/Dawg%20Build.zip?dl=1"
+minor="http://"
+gui="http://"
+kodi="18.0"
+theme="http://"
+icon="http://dawgwizard.42web.io/icon.png"
+fanart="http://dawgwizard.42web.io/fanart.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="Jason Build"
