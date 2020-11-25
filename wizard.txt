@@ -1,6 +1,6 @@
 id="plugin.program.DawgWizard"
 version="1.1.1"
-zip="http://dawgwizard.42web.io/plugin.program.DawgWizard.zip"
+zip="https://github.com/jason247g/Dawg/raw/main/plugin.program.DawgWizard.zip"
 
 
 name="Dawg Build"version="1.0"
