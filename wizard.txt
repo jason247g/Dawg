@@ -3,8 +3,8 @@ version="1.1.2"
 zip="https://github.com/jason247g/Dawg/raw/main/plugin.program.DawgWizard.zip"
 
 
-name="Dawg Build"version="1.1"
-url="https://www.dropbox.com/s/8qsr5rdz9wx7n45/Dawgbuildv1.2.zip?dl=1"
+name="Dawg Build"version="1.2"
+url="https://www.dropbox.com/s/n0y0k3tja90wjid/Dawgbuildv1.2.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="18.0"
