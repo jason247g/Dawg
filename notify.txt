@@ -1,11 +1,12 @@
-11
+  
+2
 |||
 
-2-6-2021
+11-18-2021
 
 Its's Time to update your Shit!!!
 
-Dawg Build Version 1.2 Available
+Dawg Build Version 2.1 Available
 
 Open the Dawg Wizard and install the newest build update!
 
@@ -14,9 +15,4 @@ Real Debrid users should only have to ReAuthorize
 
 -Update notes-
 
-*updated ReleaseHub
-
-*Minor fixes
-
-*added Disney+,Discovery+, and AppleTV 
- on the submenu in TVShows
+*updated addons and build
