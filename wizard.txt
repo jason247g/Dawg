@@ -16,7 +16,7 @@ adult="no"
 info="http://"
 description="Updated addons and build."
 
-ame="test"version="2.2"
+name="test"version="2.2"
 url="https://www.dropbox.com/s/suc4kvo4q42vsny/testbuild.zip?dl=1"
 minor="http://"
 gui="http://"
