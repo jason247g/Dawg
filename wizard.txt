@@ -4,7 +4,7 @@ zip="https://github.com/jason247g/Dawg/raw/main/plugin.program.DawgWizard.zip"
 
 
 name="Dawg Build"version="2.1"
-url="https://www.dropbox.com/s/d3bftbr21if2e2s/Dawgbuild.2-2-22.zip?dl=1"
+url="https://www.dropbox.com/s/v8haizi55y5dbft/Dawgbuild_2-9-22.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="19.3"
