@@ -3,7 +3,7 @@ version="2.0.8"
 zip="https://github.com/jason247g/Dawg/raw/main/plugin.program.DawgWizard.zip"
 
 
-name="Dawg Build"version="2.4"
+name="Dawg Build"version="2.5"
 url="https://www.dropbox.com/s/b8nyzl1roupa9mf/Dawgbuild_10-30-22.zip?dl=1"
 minor="http://"
 gui="http://"
