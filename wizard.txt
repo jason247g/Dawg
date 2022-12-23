@@ -1,5 +1,5 @@
 id="plugin.program.DawgWizard"
-version="2.0.8"
+version="2.0.9"
 zip="https://github.com/jason247g/Dawg/raw/main/plugin.program.DawgWizard.zip"
 
 
