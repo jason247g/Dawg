@@ -7,14 +7,6 @@
 			"icon": "https://github.com/jason247g/Dawg/raw/main/icon.png",
 			"fanart": "https://raw.githubusercontent.com/jason247g/Dawg/main/fanart.jpg",
 			"description": "Them DAWGS is Hell!"
-		},
-		{
-			"name": "",
-			"version": "",
-			"url": "",
-			"icon": "",
-			"fanart": "",
-			"description": "The second build. No comma after the curly bracket if this is the last build."
 		}
 	]
 }
