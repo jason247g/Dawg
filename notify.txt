@@ -1,9 +1,9 @@
-19
+20
 |||
-12-12-2023
+1-1-2024
 
-Merry Christmas!!!
+Happy New Year!!!
 
 -Update notes-
 
-*Added Christmas section and updated broken links,Fixed Magic Dragon,added The TVApp
+*Added Trakt section and updated broken links,Removed Christmas themes and section.
