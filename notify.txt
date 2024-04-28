@@ -1,9 +1,9 @@
-20
+21
 |||
-1-1-2024
+4-28-2024
 
-Happy New Year!!!
+kodi 21 update!!!
 
 -Update notes-
 
-*Added Trakt section and updated broken links,Removed Christmas themes and section.
+*new skin for kodi 21 compatability.
