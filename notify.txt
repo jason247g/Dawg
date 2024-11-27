@@ -1,9 +1,16 @@
 21
 |||
-4-28-2024
+11-28-2024
 
-kodi 21 update!!!
+Happy Thanksgiving!
 
 -Update notes-
 
-*new skin for kodi 21 compatability.
+*Updated some Addons for Real Debrid after new restrictions.
+*Added POV addon.
+*Removed dead addons and fixed some broken links.
+*Did not remove Asgard/Shazam/Patriot in hopes Dev recovers from serious illness.Working but list not updated.
+*added Chains Christmas section to bottom of Explore section and christmas music bottom music section.
+*changed kids movie widget to most watced as new releases is down.
+*changed explore widget to most watched Documentery as new stand up is down
+
