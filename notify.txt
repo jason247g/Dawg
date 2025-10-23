@@ -1,16 +1,15 @@
-21
+22
 |||
-11-28-2024
+10-24-2025
 
-Happy Thanksgiving!
+Boo Motherfuckers!!!
+It has finally been updated!
 
 -Update notes-
 
-*Updated some Addons for Real Debrid after new restrictions.
-*Added POV addon.
-*Removed dead addons and fixed some broken links.
-*Did not remove Asgard/Shazam/Patriot in hopes Dev recovers from serious illness.Working but list not updated.
-*added Chains Christmas section to bottom of Explore section and christmas music bottom music section.
-*changed kids movie widget to most watced as new releases is down.
-*changed explore widget to most watched Documentery as new stand up is down
+* Updated some Addons for Trakt after new restrictions.
+* Sign in to Trakt and Real Debrid in the Tools section for full functions.
+* Disregard step 1 install addons
+* Removed dead addons and fixed all broken links.
+
 
