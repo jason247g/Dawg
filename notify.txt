@@ -1,6 +1,6 @@
-24
+25
 |||
-7-26-2025
+7-26-2026
 
 Trakt will only allow 1 login now unless you pay for VIP
 The work around is to use account manager as your only Authorization and it
