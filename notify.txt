@@ -1,14 +1,17 @@
-23
+24
 |||
-6-06-2026
+7-26-2025
 
-update build and authorize Trakt and Real-Debris in Tools section
+Trakt will only allow 1 login now unless you pay for VIP
+The work around is to use account manager as your only Authorization and it
+will login to your accounts.
+it may be necessary to login to trakt on your phone and delete connected apps under settings
 
 -Update notes-
 
-* Updated some Addons for Trakt after new restrictions.
+* Updated TMDB and dependencies for Trakt after new restrictions.
 * Sign in to Trakt and Real Debrid in the Tools section for full functions.
-* Disregard step 1 install addons
+* Disregard step 1 install addons and use ACCOUNT MANAGER
 * Removed dead addons and fixed all broken links.
 
 
