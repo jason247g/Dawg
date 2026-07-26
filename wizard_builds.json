@@ -2,7 +2,7 @@
 	"builds": [
 		{
 			"name": "Dawgbuild",
-			"version": "6.1",
+			"version": "7.1",
 			"url": "https://www.dropbox.com/scl/fi/996571ybqryu1gdc0tfxw/DawgBuild-_7_26_2026.zip?rlkey=p3bbqj18cf28e8ufhaw3tz6ru&st=zlwz95b2&dl=1",
 			"icon": "https://github.com/jason247g/Dawg/raw/main/icon.png",
 			"fanart": "https://raw.githubusercontent.com/jason247g/Dawg/main/fanart.jpg",
